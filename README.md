@@ -1,2 +1,2 @@
 # Resume
-Resume Capstone 1 Porject
+Resume Capstone 1 Project
